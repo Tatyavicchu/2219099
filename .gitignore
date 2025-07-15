@@ -7,6 +7,3 @@ build/
 .cache/
 .vscode/
 *.log
-LoggingMiddleware/
-BackendTestSubmission/
-FrontendTestSubmission/

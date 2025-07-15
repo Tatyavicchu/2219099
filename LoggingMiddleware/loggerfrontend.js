@@ -1,6 +1,6 @@
 const axios=require('axios');
 let token='';
-function setToken(tk){
+export function setToken(tk){
     token=tk;
 }
 export function log(stack,level,pkg,message){
